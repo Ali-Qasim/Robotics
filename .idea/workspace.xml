@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef812863-1094-4fa4-a9e2-d75c309eccee" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/RoboAnimate.py" beforeDir="false" afterPath="$PROJECT_DIR$/RoboAnimate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myodom.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myodom2.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="ef812863-1094-4fa4-a9e2-d75c309eccee" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

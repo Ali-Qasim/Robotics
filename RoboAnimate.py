@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
 
 # Load odometry data from file
-data = np.loadtxt('myodom2.txt', delimiter=',')
+data = np.loadtxt('SLAMOdom.txt', delimiter=',')
 
 # Calculate heading from differences in x and y coordinates using i-3rd element
 dx = np.diff(data[:, 0])
